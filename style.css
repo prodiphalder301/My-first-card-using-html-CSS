@@ -35,6 +35,7 @@ div {
 }
 
 img {
+    /* adjust your img size here */
     height: 267px;
     border: 0px solid black;
     border-radius: 20px;
